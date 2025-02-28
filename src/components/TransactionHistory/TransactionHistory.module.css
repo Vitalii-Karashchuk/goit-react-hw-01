@@ -1,0 +1,18 @@
+.tableStyle{
+       margin: auto;
+    border: 2px solid black;
+    border-spacing: 0px;
+}
+
+th, td{
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.titleTable {
+    background-color: #3d3737;
+}
+
+th{
+    color: white;
+}

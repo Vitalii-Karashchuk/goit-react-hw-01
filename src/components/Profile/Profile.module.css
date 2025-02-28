@@ -1,0 +1,38 @@
+.profileCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: 500px;
+    max-width: 300px;
+    border: 4px solid #1d1c1c;
+    border-radius: 4px;
+
+    
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #f3ebeb; */
+
+
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #131111;
+}
+
+.rating{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    border-top: 4px solid grey;
+    width: 300px;
+    /* background-color: #c7bebe; */
+}
